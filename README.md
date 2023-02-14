@@ -11,9 +11,8 @@
 
 ### Education
 
-##### 🌱SeSAC iOS Bootcamp 2nd
-
-##### 🍎앨런 Swift문법 마스터 스쿨 8기
+- SeSAC iOS Bootcamp 2nd
+- 앨런 Swift문법 마스터 스쿨 8기
 
 <br/>
 
