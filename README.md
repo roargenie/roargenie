@@ -29,8 +29,4 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roargenie&layout=compact)](https://github.com/roargenie/github-readme-stats)
-
-[![roargenie's GitHub stats](https://github-readme-stats.vercel.app/api?username=roargenie)](https://github.com/roargenie/github-readme-stats)
-
 
