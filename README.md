@@ -1,12 +1,4 @@
 
-
-<br/>
-
-[📚학습 내용 정리 블로그](https://iosdevroar.tistory.com/)
-
-<br/>
-<br/>
-
 ### Education
 
 - SeSAC iOS Bootcamp 2nd
