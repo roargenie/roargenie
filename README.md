@@ -1,7 +1,5 @@
 
 
-## Studying i🍎S
-
 <br/>
 
 [📚학습 내용 정리 블로그](https://iosdevroar.tistory.com/)
@@ -12,7 +10,6 @@
 ### Education
 
 - SeSAC iOS Bootcamp 2nd
-- 앨런 Swift문법 마스터 스쿨 8기
 
 <br/>
 
