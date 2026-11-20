@@ -17,4 +17,4 @@ Currently growing into an **AI engineer**, with a keen interest in **workflow au
 
 ## 🎓 Education
 
-- SeSAC iOS 앱 개발자 부트캠프 2기
+- SeSAC iOS BootCamp 2nd (2022.07 ~ 2022.12)
