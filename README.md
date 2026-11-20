@@ -12,4 +12,4 @@
 
 ## 🎓 Education
 
-- SeSAC iOS BootCamp 2nd
+- SeSAC iOS BootCamp 2nd (2022.07 ~ 2022.12)
