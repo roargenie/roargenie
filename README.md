@@ -6,7 +6,7 @@
 
 ## 🧰 Tools
 
-<img alt="Git" title="Git" width="48" src="https://skillicons.dev/icons?i=git&theme=light"/> <img alt="GitHub" title="GitHub" width="48" src="https://skillicons.dev/icons?i=github&theme=light"/> <img alt="Slack" title="Slack" width="48" src="assets/slack.svg"/> <img alt="Figma" title="Figma" width="48" src="https://skillicons.dev/icons?i=figma&theme=light"/> <img alt="Notion" title="Notion" width="48" src="https://skillicons.dev/icons?i=notion&theme=light"/> <img alt="Confluence" title="Confluence" width="48" src="assets/confluence.svg"/> <img alt="GitHub Actions" title="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=light"/>
+<img alt="Git" title="Git" width="36" src="assets/git.svg"/> <img alt="GitHub" title="GitHub" width="36" src="assets/github.svg"/> <img alt="Slack" title="Slack" width="36" src="assets/slack.svg"/> <img alt="Figma" title="Figma" width="36" src="assets/figma.svg"/> <img alt="Notion" title="Notion" width="36" src="assets/notion.svg"/> <img alt="Confluence" title="Confluence" width="36" src="assets/confluence.svg"/> <img alt="GitHub Actions" title="GitHub Actions" width="36" src="assets/githubactions.svg"/>
 
 <br/>
 
