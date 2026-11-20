@@ -12,4 +12,4 @@
 
 ## 🎓 Education
 
-- SeSAC iOS 앱 개발자 부트캠프 2기
+- SeSAC iOS BootCamp 2nd
