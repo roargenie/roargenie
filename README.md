@@ -1,3 +1,8 @@
+Mobile engineer who started with **iOS** and expanded to cross-platform with **React Native**.<br/>
+Currently growing into an **AI engineer**, with a keen interest in **workflow automation**.
+
+<br/>
+
 ## 🛠 Tech Stack
 
 <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
@@ -12,4 +17,4 @@
 
 ## 🎓 Education
 
-- SeSAC iOS BootCamp 2nd (2022.07 ~ 2022.12)
+- SeSAC iOS 앱 개발자 부트캠프 2기
